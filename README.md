@@ -4,3 +4,7 @@ A simple Ping Pong game created from the [Turtle](https://docs.python.org/3/libr
 
 The game consists of two players trying to bounce off a ball approaching towards their paddle. 
 Upon missing the ball the opponent scores a point.
+
+Steps to Run the Game 
+1.Run "pip install turtle"
+2.Run the file ClassPong.py

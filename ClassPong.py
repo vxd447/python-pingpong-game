@@ -75,7 +75,7 @@ class Game:
     # Constructor for the Game
     def __init__(self, sizex, sizey):
         self.createScreen(sizex, sizey)     # Create the Window
-        self.createPaddles()                 # Create the Paddle
+        self.createPaddles()                # Create the Paddle
         self.createBall()                   # Create the Ball   
         self.createScoreBoard()             # Create the Scoreboard
         self.keyBindings()                  # Key Binding

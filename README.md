@@ -6,5 +6,7 @@ The game consists of two players trying to bounce off a ball approaching towards
 Upon missing the ball the opponent scores a point.
 
 Steps to Run the Game 
+
+
 1.Run "pip install turtle"
 2.Run the file ClassPong.py
